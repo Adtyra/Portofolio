@@ -27,5 +27,14 @@ This is a repository to showcase skills and my projects from graduation project 
 * [Contacts]
 
 # Projects
+ *Gojek Review
+  Description: The dataset contains records of Gojek app review from google play store.
+  [Data Source](https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia)
+  - [ ] [Main Code](Gojek/Gojek_Review.sql)
+  1. Rating per Year
+     [](Gojek/rating_year.png)
+  2. Rating per Month
+  
+  3. User Sentiment
 # Education
 # Contacts
