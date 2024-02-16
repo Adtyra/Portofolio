@@ -8,7 +8,7 @@ In my spare time, I'm continually expanding my SQL skills, exploring advanced te
 
 As I transition into the workforce, I am excited to leverage my technical expertise and SQL proficiency to contribute meaningfully in the field of data warehouse management. From designing robust data architectures to implementing effective data governance strategies, I am committed to delivering impactful solutions that maximize the value of data assets.
 
-my [CV](https://github.com/Adtyra/Portofolio/blob/main/CV_Aditya%20Rizki%20Ananda.pdf).
+My [CV](https://github.com/Adtyra/Portofolio/blob/main/CV_Aditya%20Rizki%20Ananda.pdf).
 
 This is a repository to showcase skills and my projects from graduation project until now.
 # Table of Contents
@@ -27,14 +27,52 @@ This is a repository to showcase skills and my projects from graduation project 
 * [Contacts]
 
 # Projects
- *Gojek Review
+## Reported Cause Of Death In Indonesia
+  Description: The dataset contains records of Health Facility of BPJS Indonesia
+  [Data Source](https://www.kaggle.com/datasets/israhabibi/list-faskes-bpjs-indonesia)
+  - [ ] [SQL Code](BPJS/Faskes_BPJS.sql)
+  1. Hospital per Province
+     The SQL [Result](BPJS/Rumah_Sakit.csv)<br>
+     ![Rating_per_Month](BPJS/Rumah_Sakit.png)
+  2. Health Center per Province
+     The SQL [Result](BPJS/Puskesmas.csv)<br>
+     ![Rating_per_Month](BPJS/Puskesmas.png)
+  3. All Health Facility in East Java
+     The SQL [Result](BPJS/Faskes_Jatim.csv)<br>
+     ![Rating_per_Month](BPJS/Faskes_Jatim.png)
+     
+## Gojek Review
   Description: The dataset contains records of Gojek app review from google play store.
   [Data Source](https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia)
-  - [ ] [Main Code](Gojek/Gojek_Review.sql)
+  - [ ] [SQL Code](Gojek/Gojek_Review.sql)
   1. Rating per Year
-     [](Gojek/rating_year.png)
+     The SQL [Result](Gojek/rating_year.csv) <br>
+     | Year | Average Rating | Total Reviews |
+     |------|----------------|---------------|
+     | 2024 | 3.66           | 6824          |
+     | 2023 | 3.67           | 65584         |
+     | 2022 | 4.06           | 124420        |
+     | 2021 | 4              | 28174         |
   2. Rating per Month
-  
+     The SQL [Result](Gojek/rating_month.csv)<br>
+     ![Rating_per_Month](Gojek/rating_month.png)
   3. User Sentiment
+     The SQL [Result](Gojek/sentiment.csv)<br>
+     ![Rating_per_Month](Gojek/sentiment.png)
+     
+## BPJS Facility
+  Description: The dataset contains records of Health Facility of BPJS Indonesia
+  [Data Source](https://www.kaggle.com/datasets/israhabibi/list-faskes-bpjs-indonesia)
+  - [ ] [SQL Code](BPJS/Faskes_BPJS.sql)
+  1. Hospital per Province
+     The SQL [Result](BPJS/Rumah_Sakit.csv)<br>
+     ![Rating_per_Month](BPJS/Rumah_Sakit.png)
+  2. Health Center per Province
+     The SQL [Result](BPJS/Puskesmas.csv)<br>
+     ![Rating_per_Month](BPJS/Puskesmas.png)
+  3. All Health Facility in East Java
+     The SQL [Result](BPJS/Faskes_Jatim.csv)<br>
+     ![Rating_per_Month](BPJS/Faskes_Jatim.png)
+
 # Education
 # Contacts
