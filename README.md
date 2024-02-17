@@ -15,13 +15,13 @@ This is a repository to showcase skills and my projects from graduation project 
 * [About](https://github.com/Adtyra/Portofolio/blob/main/README.md#about)
 * Projects
   * SQL Projects
-    - [ ] [Gojek Review](www.example.com)
-    - [ ] [Fasilitas Kesehatan BPJS](www.example.com)
-    - [ ] [Penyebab Kematian di Indonesia](#reported-cause-of-death-in-indonesia)
+    - [ ] [Reported Cause Of Death In Indonesia](#reported-cause-of-death-in-indonesia)
+    - [ ] [Gojek Review](#gojek-review)
+    - [ ] [BPJS Health Facility](#bpjs-facility)
   * Last Project
     - [ ] [Satu Data Indonesia Provinsi Bengkulu](www.example.com)
   * Graduation Project
-    - [ ] [ECDSA Digital Signature with QR Code Access](www.example.com)
+    - [ ] [ECDSA Based Digital Signature with QR Code Verification](www.example.com)
 * [Education]
 * [Certificates]
 * [Contacts]
@@ -73,6 +73,12 @@ This is a repository to showcase skills and my projects from graduation project 
   3. All Health Facility in East Java
      The SQL [Result](BPJS/Faskes_Jatim.csv)<br>
      ![Rating_per_Month](BPJS/Faskes_Jatim.png)
+
+## Satu Data Indonesia Provinsi Bengkulu
+   Description : Satu Data Indonesia is a national scale project to link data across Indonesia
+   
+
+## ECDSA Based Digital Signature with QR Code Verification
 
 # Education
 # Contacts
