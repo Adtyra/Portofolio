@@ -17,7 +17,7 @@ This is a repository to showcase skills and my projects from graduation project 
   * SQL Projects
     - [ ] [Gojek Review](www.example.com)
     - [ ] [Fasilitas Kesehatan BPJS](www.example.com)
-    - [ ] [Penyebab Kematian di Indonesia](www.example.com)
+    - [ ] [Penyebab Kematian di Indonesia](#reported-cause-of-death-in-indonesia)
   * Last Project
     - [ ] [Satu Data Indonesia Provinsi Bengkulu](www.example.com)
   * Graduation Project
