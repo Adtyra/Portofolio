@@ -74,10 +74,15 @@ This is a repository to showcase skills and my projects from graduation project 
      The SQL [Result](BPJS/Faskes_Jatim.csv)<br>
      ![Rating_per_Month](BPJS/Faskes_Jatim.png)
 
-## Satu Data Indonesia Provinsi Bengkulu
-   Description : Satu Data Indonesia is a national scale project to link data across Indonesia
+## [Satu Data Indonesia Provinsi Bengkulu](data.bengkuluprov.go.id)
+   ![SDI Provinsi Bengkulu](SDI/Home.png)
+   Satu Data Indonesia is a national scale project to link data across Indonesia. The web features a hierarchical structure: the national platform holds data from all provinces and cities, while each province and city maintains its own platform, hosting relevant data at their respective administrative levels.<br>
    
-
+   <p align="center">
+     <img src="SDI/Data.png" alt="SDI Provinsi Bengkulu">
+   </p>
+   The data stored on these platforms can take various formats, but the most prevalent one is XLSX, a format commonly associated with Microsoft Excel.
+   
 ## ECDSA Based Digital Signature with QR Code Verification
 
 # Education
