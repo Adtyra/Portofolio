@@ -19,32 +19,32 @@ This is a repository to showcase skills and my projects from graduation project 
     - [ ] [Gojek Review](#gojek-review)
     - [ ] [BPJS Health Facility](#bpjs-facility)
   * Last Project
-    - [ ] [Satu Data Indonesia Provinsi Bengkulu](www.example.com)
+    - [ ] [Satu Data Indonesia Provinsi Bengkulu](#satu-data-indonesia-provinsi-bengkulu)
   * Graduation Project
-    - [ ] [ECDSA Based Digital Signature with QR Code Verification](www.example.com)
+    - [ ] [ECDSA Based Digital Signature with QR Code Verification](#ecdsa-based-digital-signature-with-qr-code-verification)
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
 # Projects
 ## Reported Cause Of Death In Indonesia
-  Description: The dataset contains records of Health Facility of BPJS Indonesia
-  [Data Source](https://www.kaggle.com/datasets/israhabibi/list-faskes-bpjs-indonesia)
-  - [ ] [SQL Code](BPJS/Faskes_BPJS.sql)
-  1. Hospital per Province
-     The SQL [Result](BPJS/Rumah_Sakit.csv)<br>
-     ![Rating_per_Month](BPJS/Rumah_Sakit.png)
-  2. Health Center per Province
-     The SQL [Result](BPJS/Puskesmas.csv)<br>
-     ![Rating_per_Month](BPJS/Puskesmas.png)
-  3. All Health Facility in East Java
-     The SQL [Result](BPJS/Faskes_Jatim.csv)<br>
-     ![Rating_per_Month](BPJS/Faskes_Jatim.png)
+  Description: The dataset contains records of Reported Cause of Death in Indonesia
+  [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
+  - [ ] [SQL Code](Files/Reported_death/Cause_of_death.sql)
+  1. Reported Cause of Death
+     The SQL [Result](Files/Reported_death/Cause_of_death.csv)<br>
+     ![Rating_per_Month](Files/Reported_death/Cause_of_death.png)
+  2. Death Count by Year
+     The SQL [Result](Files/Reported_death/Death_per_Year.csv)<br>
+     ![Rating_per_Month](Files/Reported_death/Death_per_Year.png)
+  3. Death Cause by AIDS
+     The SQL [Result](Files/Reported_death/AIDS_Year)<br>
+     ![Rating_per_Month](Files/Reported_death/AIDS_Year.png)
      
 ## Gojek Review
   Description: The dataset contains records of Gojek app review from google play store.
   [Data Source](https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia)
-  - [ ] [SQL Code](Gojek/Gojek_Review.sql)
+  - [ ] [SQL Code](Files/Gojek/Gojek_Review.sql)
   1. Rating per Year
      The SQL [Result](Gojek/rating_year.csv) <br>
      | Year | Average Rating | Total Reviews |
@@ -54,47 +54,47 @@ This is a repository to showcase skills and my projects from graduation project 
      | 2022 | 4.06           | 124420        |
      | 2021 | 4              | 28174         |
   2. Rating per Month
-     The SQL [Result](Gojek/rating_month.csv)<br>
-     ![Rating_per_Month](Gojek/rating_month.png)
+     The SQL [Result](Files/Gojek/rating_month.csv)<br>
+     ![Rating_per_Month](Files/Gojek/rating_month.png)
   3. User Sentiment
-     The SQL [Result](Gojek/sentiment.csv)<br>
-     ![Rating_per_Month](Gojek/sentiment.png)
+     The SQL [Result](Files/Gojek/sentiment.csv)<br>
+     ![Rating_per_Month](Files/Gojek/sentiment.png)
      
 ## BPJS Facility
   Description: The dataset contains records of Health Facility of BPJS Indonesia
   [Data Source](https://www.kaggle.com/datasets/israhabibi/list-faskes-bpjs-indonesia)
-  - [ ] [SQL Code](BPJS/Faskes_BPJS.sql)
+  - [ ] [SQL Code](Files/BPJS/Faskes_BPJS.sql)
   1. Hospital per Province
-     The SQL [Result](BPJS/Rumah_Sakit.csv)<br>
-     ![Rating_per_Month](BPJS/Rumah_Sakit.png)
+     The SQL [Result](Files/BPJS/Rumah_Sakit.csv)<br>
+     ![Rating_per_Month](Files/BPJS/Rumah_Sakit.png)
   2. Health Center per Province
-     The SQL [Result](BPJS/Puskesmas.csv)<br>
-     ![Rating_per_Month](BPJS/Puskesmas.png)
+     The SQL [Result](Files/BPJS/Puskesmas.csv)<br>
+     ![Rating_per_Month](Files/BPJS/Puskesmas.png)
   3. All Health Facility in East Java
-     The SQL [Result](BPJS/Faskes_Jatim.csv)<br>
-     ![Rating_per_Month](BPJS/Faskes_Jatim.png)
+     The SQL [Result](Files/BPJS/Faskes_Jatim.csv)<br>
+     ![Rating_per_Month](Files/BPJS/Faskes_Jatim.png)
 
 ## [Satu Data Indonesia Provinsi Bengkulu](data.bengkuluprov.go.id)
-   ![SDI Provinsi Bengkulu](SDI/Home.png)
+   ![SDI Provinsi Bengkulu](Files/SDI/Home.png)
    Satu Data Indonesia is a national scale project to link data across Indonesia. The web features a hierarchical structure: the national platform holds data from all provinces and cities, while each province and city maintains its own platform, hosting relevant data at their respective administrative levels.<br>
    
    <p align="center">
-     <img src="SDI/Data.png" alt="SDI Provinsi Bengkulu">
+     <img src="Files/SDI/Data.png" alt="SDI Provinsi Bengkulu">
    </p>
    The data stored on these platforms can take various formats, but the most prevalent one is XLSX, a format commonly associated with Microsoft Excel.
    
 ## ECDSA Based Digital Signature with QR Code Verification
    <p align="center">
-     <img src="qsign/Ignore/home.png" alt="homepage">
+     <img src="Files/qsign/Ignore/home.png" alt="homepage">
    </p>
    My graduation project tackles the issue of signature forgery in online learning environments. I developed a digital signature website utilizing ECDSA-based signatures wrapped in QR codes for enhanced security. This innovation allows users to verify signatures via QR scan or document upload, ensuring authenticity and expediting approvals, even when lecturers are off-campus. By addressing these challenges, the project aims to streamline the document signing process in remote academic settings.<br>
    
   <p align="center">
-     <img src="qsign/Ignore/add.png" alt="Selecting QR Location">
+     <img src="Files/qsign/Ignore/add.png" alt="Selecting QR Location">
   </p>
   The QR code's placement within documents is customizable, facilitating compatibility with diverse formats. This adaptability ensures seamless verification across a range of document types, enhancing system usability.<br>
   <p align="center">
-    <img src="qsign/Ignore/result.png" alt="Example Result">
+    <img src="Files/qsign/Ignore/result.png" alt="Example Result">
   </p>
    
 # Education
