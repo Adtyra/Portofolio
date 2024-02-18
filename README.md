@@ -22,9 +22,9 @@ This is a repository to showcase skills and my projects from graduation project 
     - [ ] [Satu Data Indonesia Provinsi Bengkulu](www.example.com)
   * Graduation Project
     - [ ] [ECDSA Based Digital Signature with QR Code Verification](www.example.com)
-* [Education]
-* [Certificates]
-* [Contacts]
+* [Education](#education)
+* [Certificates](#certificates)
+* [Contacts](#contacts)
 
 # Projects
 ## Reported Cause Of Death In Indonesia
@@ -100,8 +100,10 @@ This is a repository to showcase skills and my projects from graduation project 
 # Education
   University of Bengkulu, Bachelor's degree, Computer Science Aug 2018 - May 2023
 # Certificates 
-  Orbit Future Academy [AWS re/Start](https://erp.orbitfutureacademy.com/pub/certificate/verification/ORBITFA65aa4eab61f2d) December 15, 2023
-  MySkill [Data Analysis](https://storage.googleapis.com/myskill-v2-certificates/topic-qtKMZ78xyd6TPzUQOESu/Z6ENhCALhdSnXY189i96CdGRizR2-kYyaEvdl7FkRTetjQtbi.pdf) September 22, 2023
-  Coursera [Google Data Analytics](https://coursera.org/verify/professional-cert/QJSHFRDTCHPP) August 25, 2023
+  Orbit Future Academy [AWS re/Start](https://erp.orbitfutureacademy.com/pub/certificate/verification/ORBITFA65aa4eab61f2d) December 15, 2023.<br>
+  MySkill [Data Analysis](https://storage.googleapis.com/myskill-v2-certificates/topic-qtKMZ78xyd6TPzUQOESu/Z6ENhCALhdSnXY189i96CdGRizR2-kYyaEvdl7FkRTetjQtbi.pdf) September 22, 2023.<br>
+  Coursera [Google Data Analytics](https://coursera.org/verify/professional-cert/QJSHFRDTCHPP) August 25, 2023.<br>
   
 # Contacts
+  Linkedin : [Aditya Rizki Ananda](https://www.linkedin.com/in/adityarizkiananda/)<br>
+  Email : adityarizkiand@gmail.com
