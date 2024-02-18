@@ -84,6 +84,21 @@ This is a repository to showcase skills and my projects from graduation project 
    The data stored on these platforms can take various formats, but the most prevalent one is XLSX, a format commonly associated with Microsoft Excel.
    
 ## ECDSA Based Digital Signature with QR Code Verification
-
+   <p align="center">
+     <img src="qsign/home.png" alt="homepage">
+   </p>
+   My graduation project tackles the issue of signature forgery in online learning environments. I developed a digital signature website utilizing ECDSA-based signatures wrapped in QR codes for enhanced security. This innovation allows users to verify signatures via QR scan or document upload, ensuring authenticity and expediting approvals, even when lecturers are off-campus. By addressing these challenges, the project aims to streamline the document signing process in remote academic settings.<br>
+   
+  <p align="center">
+     <img src="qsign/add.png" alt="Selecting QR Location">
+  </p>
+  The QR code's placement within documents is customizable, facilitating compatibility with diverse formats. This adaptability ensures seamless verification across a range of document types, enhancing system usability.<br>
+  <p align="center">
+    <img src="qsign/result.png" alt="Example Result">
+  </p>
+   
 # Education
+  University of Bengkulu, Bachelor's degree, Computer Science Aug 2018 - May 2023
+# Certificates 
+  Coursera [Google Data Analytics](https://coursera.org/verify/professional-cert/QJSHFRDTCHPP) August 25, 2023
 # Contacts
