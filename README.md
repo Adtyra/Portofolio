@@ -12,8 +12,8 @@ My [CV](https://github.com/Adtyra/Portofolio/blob/main/CV_Aditya%20Rizki%20Anand
 
 This is a repository to showcase skills and my projects from graduation project until now.
 # Table of Contents
-* [About](https://github.com/Adtyra/Portofolio/blob/main/README.md#about)
-* Projects
+* [About](#about)
+* [Projects]
   * SQL Projects
     - [ ] [Reported Cause Of Death In Indonesia](#reported-cause-of-death-in-indonesia)
     - [ ] [Gojek Review](#gojek-review)
@@ -85,20 +85,23 @@ This is a repository to showcase skills and my projects from graduation project 
    
 ## ECDSA Based Digital Signature with QR Code Verification
    <p align="center">
-     <img src="qsign/home.png" alt="homepage">
+     <img src="qsign/Ignore/home.png" alt="homepage">
    </p>
    My graduation project tackles the issue of signature forgery in online learning environments. I developed a digital signature website utilizing ECDSA-based signatures wrapped in QR codes for enhanced security. This innovation allows users to verify signatures via QR scan or document upload, ensuring authenticity and expediting approvals, even when lecturers are off-campus. By addressing these challenges, the project aims to streamline the document signing process in remote academic settings.<br>
    
   <p align="center">
-     <img src="qsign/add.png" alt="Selecting QR Location">
+     <img src="qsign/Ignore/add.png" alt="Selecting QR Location">
   </p>
   The QR code's placement within documents is customizable, facilitating compatibility with diverse formats. This adaptability ensures seamless verification across a range of document types, enhancing system usability.<br>
   <p align="center">
-    <img src="qsign/result.png" alt="Example Result">
+    <img src="qsign/Ignore/result.png" alt="Example Result">
   </p>
    
 # Education
   University of Bengkulu, Bachelor's degree, Computer Science Aug 2018 - May 2023
 # Certificates 
+  Orbit Future Academy [AWS re/Start](https://erp.orbitfutureacademy.com/pub/certificate/verification/ORBITFA65aa4eab61f2d) December 15, 2023
+  MySkill [Data Analysis](https://storage.googleapis.com/myskill-v2-certificates/topic-qtKMZ78xyd6TPzUQOESu/Z6ENhCALhdSnXY189i96CdGRizR2-kYyaEvdl7FkRTetjQtbi.pdf) September 22, 2023
   Coursera [Google Data Analytics](https://coursera.org/verify/professional-cert/QJSHFRDTCHPP) August 25, 2023
+  
 # Contacts
