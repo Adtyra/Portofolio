@@ -14,6 +14,8 @@ This is a repository to showcase skills and my projects from graduation project 
 # Table of Contents
 * [About](#about)
 * [Projects]
+  * Data Analyst
+    - [ ] [Top 5 Province With Most Favorable Living Cost In Year 2021 and 2022](#top-5-province-with-most-favorable-living-cost-in-year-2021-and-2022)
   * SQL Projects
     - [ ] [Reported Cause Of Death In Indonesia](#reported-cause-of-death-in-indonesia)
     - [ ] [Gojek Review](#gojek-review)
@@ -27,6 +29,9 @@ This is a repository to showcase skills and my projects from graduation project 
 * [Contacts](#contacts)
 
 # Projects
+## Top 5 Province With Most Favorable Living Cost In Year 2021 and 2022
+   Description: The project aims to
+   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
 ## Reported Cause Of Death In Indonesia
   Description: The dataset contains records of Reported Cause of Death in Indonesia
   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
