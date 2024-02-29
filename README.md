@@ -29,9 +29,15 @@ This is a repository to showcase skills and my projects from graduation project 
 * [Contacts](#contacts)
 
 # Projects
-## Top 5 Province With Most Favorable Living Cost In Year 2021 and 2022
-   Description: The project aims to
-   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
+## Top 5 Provinces with the Most Favorable Minimum Wages to Living Cost Ratio (Forecasted for 2023-2025)
+   Description: This project seeks to identify the top 5 provinces in Indonesia where the ratio of minimum wages to living costs is most advantageous.<br>
+   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)<br>
+   Despite fluctuations in the top 5 results of the forecasted data, the provinces consistently appearing in the top 5 are:<br>
+   * D.I. Yogyakarta
+   * Banten
+   * Jawa Barat
+   * Jawa Tengah
+   * Jawa Timur
 ## Reported Cause Of Death In Indonesia
   Description: The dataset contains records of Reported Cause of Death in Indonesia
   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
