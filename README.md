@@ -29,7 +29,7 @@ This is a repository to showcase skills and my projects from graduation project 
 * [Contacts](#contacts)
 
 # Projects
-## Top 5 Province With Most Favorable Minimum Wages to Living Cost Ratio
+## Top 5 Provinces with the Most Favorable Minimum Wages to Living Cost Ratio (Forecasted for 2023-2025)
    Description: This project seeks to identify the top 5 provinces in Indonesia where the ratio of minimum wages to living costs is most advantageous.<br>
    [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)<br>
    Despite fluctuations in the top 5 results of the forecasted data, the provinces consistently appearing in the top 5 are:<br>
