@@ -30,9 +30,9 @@ This is a repository to showcase skills and my projects from graduation project 
 
 # Projects
 ## Top 5 Province With Most Favorable Minimum Wages to Living Cost Ratio
-   Description: This project seeks to identify the top 5 provinces in Indonesia where the ratio of minimum wages to living costs is most advantageous.
-   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
-   Despite fluctuations in the top 5 results of the forecasted data, the provinces consistently appearing in the top 5 are:
+   Description: This project seeks to identify the top 5 provinces in Indonesia where the ratio of minimum wages to living costs is most advantageous.<br>
+   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)<br>
+   Despite fluctuations in the top 5 results of the forecasted data, the provinces consistently appearing in the top 5 are:<br>
    * D.I. Yogyakarta
    * Banten
    * Jawa Barat
