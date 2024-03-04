@@ -40,7 +40,7 @@ This is a repository to showcase skills and my projects from graduation project 
    * Jawa Tengah
    * Jawa Timur
 ## Reported Cause Of Death In Indonesia
-  Description: The dataset contains records of Reported Cause of Death in Indonesia
+  Description: The dataset contains records of Reported Cause of Death in Indonesia. <br>
   [Data Source](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia)
   - [ ] [SQL Code](Files/Reported_death/Cause_of_death.sql)
   1. Reported Cause of Death
@@ -54,7 +54,7 @@ This is a repository to showcase skills and my projects from graduation project 
      ![Rating_per_Month](Files/Reported_death/AIDS_Year.png)
      
 ## Gojek Review
-  Description: The dataset contains records of Gojek app review from google play store.
+  Description: The dataset contains records of Gojek app review from google play store.<br>
   [Data Source](https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia)
   - [ ] [SQL Code](Files/Gojek/Gojek_Review.sql)
   1. Rating per Year
@@ -73,7 +73,7 @@ This is a repository to showcase skills and my projects from graduation project 
      ![Rating_per_Month](Files/Gojek/sentiment.png)
      
 ## BPJS Facility
-  Description: The dataset contains records of Health Facility of BPJS Indonesia
+  Description: The dataset contains records of Health Facility of BPJS Indonesia.<br>
   [Data Source](https://www.kaggle.com/datasets/israhabibi/list-faskes-bpjs-indonesia)
   - [ ] [SQL Code](Files/BPJS/Faskes_BPJS.sql)
   1. Hospital per Province
